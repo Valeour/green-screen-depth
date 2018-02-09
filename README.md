@@ -3,6 +3,8 @@ Green screen depth shader to be used with Reshade 3.1.1 by Chance 'Valeour' Mizu
 
 ![FFXIV Example](https://pbs.twimg.com/media/DUaJdo-WAAAkfyD.jpg)
 
+## [Download](https://github.com/Valeour/green-screen-depth/archive/master.zip)
+
 Primarily made for FFXIV, should be able to be used with other games.
 
 Contains two adjustable values;
