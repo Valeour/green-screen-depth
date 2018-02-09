@@ -1,5 +1,5 @@
 # Green Screen Depth Shader
-Green screen depth shader to be used with Reshade 3.1.1
+Green screen depth shader to be used with Reshade 3.1.1 by Chance 'Valeour' Mizukiri
 
 ![FFXIV Example](https://pbs.twimg.com/media/DUaJdo-WAAAkfyD.jpg)
 
