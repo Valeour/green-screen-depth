@@ -8,8 +8,8 @@ Green screen depth shader to be used with Reshade 3.1.1 by Chance 'Valeour' Mill
 Primarily made for FFXIV, should be able to be used with other games.
 
 Contains two adjustable values;
-  Green screen colour - Doesn't have to be green
-  Depth cut off - This is how far away from the camera until the green screen kicks in.
+- Green screen colour - Doesn't have to be green
+- Depth cut off - This is how far away from the camera until the green screen kicks in.
 
 Please ensure that reverse depth is not enabled in settings, or it will cause the shader to work in reverse and become a pain to work with.
 
