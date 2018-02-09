@@ -13,5 +13,5 @@ Contains two adjustable values;
 
 Please ensure that reverse depth is not enabled in settings, or it will cause the shader to work in reverse and become a pain to work with.
 
-To install, simply place in your shader of the game you installed Reshade on.
+To install, simply place the GreenScreenDepth.fx in your shader folder of the game you installed Reshade on.
 (Pretty sure this only works on DX11. Haven't tested with DX9)
