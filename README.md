@@ -1,5 +1,5 @@
 # Green Screen Depth Shader
-Green screen depth shader to be used with Reshade 3.1.1 by Chance 'Valeour' Millar
+Green screen depth shader to be used with Reshade 3.1.1 by [Chance 'Valeour' Millar](https://twitter.com/ValeourM)
 
 ## [Download](https://github.com/Valeour/green-screen-depth/archive/master.zip)
 
